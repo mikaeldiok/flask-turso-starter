@@ -1,4 +1,4 @@
-based on [KeironTJ's KJFlaskBPTemplate](https://github.com/KeironTJ/KJFlaskBPTemplate)
+based on [Jelmerdejong's flask-app-blueprint](https://github.com/jelmerdejong/flask-app-blueprint)
 
 updated the requirements for flask 2 and other
 
